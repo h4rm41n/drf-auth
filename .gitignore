@@ -1,0 +1,6 @@
+env/
+*.pyc
+src/.vscode
+templates/
+static/
+
